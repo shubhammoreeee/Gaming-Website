@@ -409,7 +409,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<article className="has-text-white">
 				<div className="columns">
 					<div className="column">
-						<p className="is-size-5 mb-6">Next Level Cafe’s are a chain of gaming cafes which provide a large range of games like Arcade, Console, PC, retro gaming and VR Simulators.
+						<p className="is-size-5 mb-6">Beyond Gaming Cafe’s are a chain of gaming cafes which provide a large range of games like Arcade, Console, PC, retro gaming and VR Simulators.
 						<br/> Apart from catering with top of the line gaming experience we also have a good ambience for food and beverages.</p>
 					</div>
 				</div>

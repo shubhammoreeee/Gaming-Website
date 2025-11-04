@@ -26,7 +26,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div className="container">
 				<div className="navbar-brand ">
 					<a className="navbar-item" href="index.html">
-						<img src="./src/assets/footer-logo.png" width="112" height="28"/>
+						<img src="./src/assets/logo.png" width="82" height="28"/>
 					</a>
 					
 					<a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -646,7 +646,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div className="columns">
 						<div className="column">
 							<div className="logo">
-								<a href=""><img src="./src/assets/footer-logo.png" alt=""/></a>
+								<a href=""><img src="./src/assets/logo.png" alt=""/></a>
 							</div>
 							<ul className="socials">
 								<li><a href=""><img src="./src/assets/social/facebook.png" alt=""/></a></li>
@@ -658,7 +658,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div className="column ">
 					<p className="mb-3 has-text-white">Creating an affordable and accessible gaming ecosystem</p>
-					<p>NEXT LEVEL &copy; Copyright 2023</p>
+					<p>BEYOND GAMINGS &copy; Copyright 2025</p>
 				</div>
 			</div>
 		</div>

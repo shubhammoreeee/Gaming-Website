@@ -5156,7 +5156,8 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
   flex-shrink: 0;
 }
 .navbar-item img {
-  max-height: 1.75rem;
+  max-height: 3.75rem;
+  filter:invert()
 }
 .navbar-item.has-dropdown {
   padding: 0;
@@ -10916,6 +10917,9 @@ a.navbar-item.is-active, .navbar-link.is-active {
 }
 .footer .logo img {
   transition: cubic-bezier(0.175, 0.885, 0.32, 1.275) 0.5s;
+  filter: invert();
+  height: 5.75rem;
+  width: 8.75rem;
 }
 .footer .logo img:hover {
   transform: scale(1.05);

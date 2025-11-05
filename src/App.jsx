@@ -650,7 +650,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
 							<ul className="socials">
 								<li><a href=""><img src="./src/assets/social/facebook.png" alt=""/></a></li>
-								<li><a href="https://www.instagram.com/next.level.cafe/" target="_blank"><img src="./src/assets/social/instagram.png" alt=""/></a></li>
+								<li><a href="https://www.google.com/" target="_blank"><img src="./src/assets/social/instagram.png" alt=""/></a></li>
 								<li><a href=""><img src="./src/assets/social/youtube.png" alt=""/></a></li>
 							</ul>
 						</div>
